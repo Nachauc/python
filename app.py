@@ -1,5 +1,5 @@
-#debe ingresar su nombre 
-nombre = input("Ingrese su nombre")
-print("hola{nombre}")
 
+def saludo(nombre):
+    print("hola",nombre)
 
+saludo("Maria")
