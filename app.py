@@ -1,1 +1,4 @@
-print("hola desde python")
+nombre = input("Ingrese su nombre")
+print("hola{nombre}")
+
+
